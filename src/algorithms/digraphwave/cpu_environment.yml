@@ -1,0 +1,20 @@
+name: digraphwave_cpu_env
+channels:
+  - pyg
+  - numba
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - cpuonly
+  - pip
+  - icc_rt
+  - numba
+  - numpy
+  - pytorch=1.11
+  - pytorch-sparse=0.6
+  - scipy
+  - joblib
+  - tqdm
+  - pip:
+      - ray==1.11

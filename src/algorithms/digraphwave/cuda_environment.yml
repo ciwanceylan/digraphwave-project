@@ -1,0 +1,22 @@
+name: digraphwave_cuda_env
+channels:
+  - pyg
+  - numba
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.3
+  - icc_rt
+  - numba
+  - numpy
+  - pytorch=1.11
+  - pytorch-sparse=0.6
+  - scipy
+  - joblib
+  - tqdm
+  - pip:
+      - ray==1.11
+
+
