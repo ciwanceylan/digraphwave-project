@@ -1,1 +1,13 @@
 theme: jekyll-theme-dinky
+
+title: Digraphwave
+description: >
+  Project page for ACM submission "Digraphwave: Scalable Extraction of Structural Node Embeddings via Diffusion on Directed Graphs".
+
+buttons:
+  paper_url:
+  paper_title: Preprint
+  data_url: https://github.com/ciwanceylan/digraphwave-reproducibility/tree/main/data
+  data_title: Datasets
+  results_url: https://github.com/ciwanceylan/digraphwave-reproducibility/tree/main/results
+  results_title: Results
