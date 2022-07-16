@@ -4,8 +4,7 @@ title: Digraphwave
 description: >
   Project page for ACM submission "Digraphwave: Scalable Extraction of Structural Node Embeddings via Diffusion on Directed Graphs".
 
-site:
-  show_downloads: True
+show_downloads: True
 
 buttons:
   paper_url:

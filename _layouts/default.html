@@ -24,6 +24,15 @@
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
             <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
           {% endif %}
+          {% if site.buttons.paper_url %}
+            <li><a class="buttons" href="{{ site.buttons.paper_url }}" > {{ site.buttons.paper_title | default: "Paper" }} </a></li>
+          {% endif %}
+          {% if site.buttons.data_url %}
+            <li><a class="buttons github"  href="{{ site.buttons.data_url }}" > {{ site.buttons.data_title | default: "Data" }} </a></li>
+          {% endif %}
+          {% if site.buttons.results_url %}
+            <li><a class="buttons github"  href="{{ site.buttons.results_url }}" > {{ site.buttons.results_title | default: "Results" }} </a></li>
+          {% endif %}
           <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
         </ul>
 
