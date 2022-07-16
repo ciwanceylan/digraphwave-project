@@ -6,6 +6,10 @@ description: >
 
 show_downloads: True
 
+github:
+  zip_url: https://github.com/ciwanceylan/digraphwave-project/zipball/main
+  tar_url: https://github.com/ciwanceylan/digraphwave-project/tarball/main
+
 buttons:
   paper_url:
   paper_title: Preprint
