@@ -12,4 +12,4 @@ Moreover, Digraphwave either outperforms or matches the performance of all basel
 
 
 
-<div style="text-align:center"><img src="figures/pipeline_drawing.svg" width="900"/></div>
+<div style="text-align:center"><img src="figures/pipeline_drawing.pdf" width="900"/></div>
