@@ -1,6 +1,21 @@
 # Digraphwave Experiments
 
-A repo containing the experiments for the paper.
+A repo containing the experiments for the Digraphwave preprint [https://arxiv.org/abs/2207.10149](https://arxiv.org/abs/2207.10149).
+Please use the citation below if you use this code for your research.
+
+**Citation (bibtex)**:
+```
+@misc{ceylan2022digraphwave,
+      title={Digraphwave: Scalable Extraction of Structural Node Embeddings via Diffusion on Directed Graphs}, 
+      author={Ciwan Ceylan and Kambiz Ghoorchian and Danica Kragic},
+      year={2022},
+      eprint={2207.10149},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      doi={https://doi.org/10.48550/arXiv.2207.10149}
+}
+```
+
 
 ## Setup
 
