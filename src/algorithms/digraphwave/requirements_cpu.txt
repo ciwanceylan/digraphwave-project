@@ -2,10 +2,9 @@ numpy>=1.15
 scipy>=1.0.0
 numba>=0.50.1
 tqdm
-ray==1.11
 -f https://download.pytorch.org/whl/cpu
-torch==1.11.0
--f https://data.pyg.org/whl/torch-1.11.0+cpu.html
+torch==1.13.1
+-f https://data.pyg.org/whl/torch-1.13.1+cpu.html
 torch-scatter==2.0.9
 torch-sparse==0.6.13
 joblib
